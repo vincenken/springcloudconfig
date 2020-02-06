@@ -1,2 +1,2 @@
-# springcloudconfig
-repository as spring cloud config server by vincen
+springcloudconfig
+repository as spring cloud config server by lijiawen
